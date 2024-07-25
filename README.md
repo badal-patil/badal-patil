@@ -2,9 +2,6 @@
     👋 Hi brilliant minds, Badal here 👦🏻💻
 </h1>
 
-<p align="center">
-    <img width="460" height="300" src="https://github.com/badal-patil/developer/blob/main/developer.gif">
-</p>
 
 # 💫 About Me:
 Data Science graduate from NMIMS, Mumbai, and bringing valuable past experience as an ETL Developer at Bitwise Solutions. My journey is fueled by a passion for leveraging data to unearth crucial insights. Throughout my master's program, I delved into impactful internships, including applying Reinforcement Learning to the Smelting Process at LivNSense Technologies and crafting an NLP-driven Chatbot for seamless software integration at SAS. Currently serving as a Full-time Data Scientist at SAS, I specialize in Demand Shaping through Forecasting, and actively implement cutting-edge technologies. My expertise spans in Computer Vision, Optimization, Generative AI, Large Language Models (LLM), Langchain, and RAG's, all strategically applied in the dynamic realm of the several industrial domains. Committed to pushing the boundaries of technology and making a mark in the data-driven landscape.
