@@ -10,10 +10,10 @@
 # 💫 About Me:
 Enthusiastic Computer Graduate Student with experience in Software Development, Customer Support and Data Science.
 Currently working as Cloud Engineer at AWS. 
-Former employer at CleanData, an innovative startup working semi automatic vehicles.
+Former employee at CleanData, an innovative startup working semi automatic vehicles.
 Completed Masters in Computer Science specializing in Data Science and Software development at University College Dublin, Ireland.
 Secondary interests being Data Warehousing, Big Data and Cloud Computing.
-Former employer at Cognizant Technology Solutions, Bangalore, India.
+Former employee at Cognizant Technology Solutions, Bangalore, India.
 Completed Bachelor's degree in Computer Science at Mumbai University, India.
 Interned at Trivia Softwares, Mumbai, India.
 
