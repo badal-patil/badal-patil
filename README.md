@@ -2,6 +2,10 @@
     👋 Hi Tech minds, Badal here 👦🏻💻
 </h1>
 
+<p align="center">
+    <img width="460" height="300" src="https://github.com/badal-patil/developer/blob/main/developer.gif">
+</p>
+
 
 # 💫 About Me:
 Enthusiastic Computer Graduate Student with experience in Software Development, Customer Support and Data Science.
