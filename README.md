@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img width="460" height="300" src="https://github.com/VivekSalunkhe14/developer/blob/main/developer.gif">
+    <img width="460" height="300" src="https://github.com/badal-patil/developer/blob/main/developer.gif">
 </p>
 
 # 💫 About Me:
